@@ -1,0 +1,115 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7000
+D N−Channel TO−92
+F http://www.onsemi.com/pub_link/Collateral/2N7000-D.PDF
+$ENDCMP
+#
+$CMP Arduino_Pro_Mini_Header
+D Arduino Pro Mini Header
+$ENDCMP
+#
+$CMP BC817
+D BC817
+F http://www.onsemi.com/pub_link/Collateral/BC817-40W-D.PDF
+$ENDCMP
+#
+$CMP BC847
+D BC817
+F http://cache.nxp.com/documents/data_sheet/BC846_SER.pdf?pspll=1
+$ENDCMP
+#
+$CMP CNY70
+D DIP4, Refective Sensor
+F http://www.vishay.com/docs/83751/cny70.pdf
+$ENDCMP
+#
+$CMP CONN_02X05
+D Connector, double row, 02x05
+K connector
+$ENDCMP
+#
+$CMP Crystal_Small
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP HEADER_02X05
+D Connector, double row, 02x05
+K connector
+$ENDCMP
+#
+$CMP IRL6342
+D HexFET N-MOS Power Mosfet, Vds 30V, Rdson 0.014R, Id 9.9A, SOIC-8
+K HexFET Power Mosfet N-MOS
+F http://www.infineon.com/dgdl/irl6342pbf.pdf?fileId=5546d462533600a40153565ffb7a2577
+$ENDCMP
+#
+$CMP LCD-016N002L
+D 16 x 2 Character LCD
+F http://www.vishay.com/docs/37299/37299.pdf
+$ENDCMP
+#
+$CMP LCD16X2
+D WC1602A0-SFYLYNC06
+K Generic LCD 16x2 Alphanumeric 16pin Green Backlight
+F http://www.kamami.pl/dl/wc1602a0.pdf
+$ENDCMP
+#
+$CMP LM1117-SOT
+D 800mA Low Dropout Linear Regulator, SOT packages
+F http://www.mouser.com/ds/2/282/lm1117-n-7107.pdf
+$ENDCMP
+#
+$CMP Mounting_Hole
+D Mounting Hole without connection
+K mounting hole
+$ENDCMP
+#
+$CMP OSHWA
+D Logo Open Hardware
+$ENDCMP
+#
+$CMP POT
+D Trimmer
+K R
+$ENDCMP
+#
+$CMP Pololu_Breakout_A4988
+D Pololu Breakout Board, Stepper Driver A4988
+K Pololu Breakout Board Stepper Driver A4988
+F https://www.pololu.com/product/2980/pictures
+$ENDCMP
+#
+$CMP Pololu_Breakout_DRV8825
+D Pololu Breakout Board, Stepper Driver DRV8825
+K Pololu Breakout Board Stepper Driver DRV8825
+F https://www.pololu.com/product/2982
+$ENDCMP
+#
+$CMP QRE1113
+D Minature Reflective Object Sensor
+K QRE1113
+F https://www.fairchildsemi.com/products/optoelectronics/infrared/reflective-sensors/QRE1113.html
+$ENDCMP
+#
+$CMP R
+D Resistor
+$ENDCMP
+#
+$CMP SW_DIP_x03
+D 3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP SW_SPDT
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
+$ENDCMP
+#
+#End Doc Library
