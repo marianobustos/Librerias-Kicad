@@ -1,6 +1,6 @@
-(module BORNERA2 (layer F.Cu) (tedit 57FAD75C)
+(module BORNERA2 (layer F.Cu) (tedit 590C8F71)
   (descr "2-way 5.08mm pitch terminal block, Phoenix MKDS series")
-  (fp_text reference BORNERA2 (at 0 -6.7) (layer F.SilkS)
+  (fp_text reference BORNERA2 (at 0 -6.7) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (fp_text value J** (at 0 5.8) (layer F.SilkS)

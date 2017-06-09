@@ -1,4 +1,4 @@
-(module led_3mm_clear (layer F.Cu)
+(module led_3mm_clear (layer F.Cu) (tedit 0)
   (descr "3mm clear led")
   (tags led)
   (fp_text reference led_3mm_clear (at 0 3.5) (layer F.SilkS)
@@ -16,7 +16,7 @@
   (fp_circle (center 0 0) (end -1.50114 0) (layer F.SilkS) (width 0.29972))
   (pad 1 thru_hole circle (at 0 -1.27) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 1.27) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/indicators/led_3mm_clear.wrl
+  (model led_3mm_clear.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

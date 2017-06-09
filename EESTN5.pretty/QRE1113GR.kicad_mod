@@ -15,8 +15,8 @@
   (pad 3 smd rect (at -2.1 0.9) (size 1.4 1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 2.1 0.9) (size 1.4 1) (layers F.Cu F.Paste F.Mask))
   (model QRE1113GR.wrl
-    (at (xyz -0.01 -0.13 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz 0 0 180))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )

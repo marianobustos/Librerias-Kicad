@@ -13,9 +13,4 @@
   (fp_line (start -3 0) (end 3 0) (layer F.SilkS) (width 0.254))
   (fp_line (start 0 -3) (end 0 3) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers *.Cu F.SilkS))
-  (model walter/details/hole.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
