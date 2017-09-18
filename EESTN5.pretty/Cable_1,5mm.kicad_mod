@@ -1,0 +1,10 @@
+(module Cable_1,5mm (layer F.Cu) (tedit 59A37F14)
+  (descr "Cable 1,5mm")
+  (fp_text reference Cable_1,5mm (at 0 -2.794) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value VAL** (at 4.826 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 3 6) (drill 1.5 (offset 0 1.5)) (layers *.Cu F.SilkS))
+)

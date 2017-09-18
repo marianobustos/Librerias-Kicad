@@ -5,6 +5,22 @@ D N−Channel TO−92
 F http://www.onsemi.com/pub_link/Collateral/2N7000-D.PDF
 $ENDCMP
 #
+$CMP 74HC595
+D 8 bits serial in // out Shift Register 3 State Out
+K HCMOS SR 3State
+F 74xx/74HC595.pdf
+$ENDCMP
+#
+$CMP 74LS595
+D 8 bits serial in // out Shift Register 3 State Out
+K TTL SR 3State
+$ENDCMP
+#
+$CMP 74LS596
+D 8 bits serial in // out Shift Register Open Collect.
+K HCMOS SR OpenCol
+$ENDCMP
+#
 $CMP ARDUINO_as_UNO
 D schématic for build a shield or clone an "arduino as UNO " based on revision 3
 K arduino
@@ -45,6 +61,11 @@ D Connector, double row, 02x05
 K connector
 $ENDCMP
 #
+$CMP Cable_PAD
+D Solder Pad for cable connection
+K Cable
+$ENDCMP
+#
 $CMP Crystal_Small
 D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
@@ -68,6 +89,24 @@ $ENDCMP
 $CMP Jumper_NC_Dual
 D Dual Jumper, normally closed
 K jumper bridge link nc
+$ENDCMP
+#
+$CMP L293
+D Quadruple Half-H Drivers
+K Half-H Driver Motor 
+F http://www.ti.com/lit/ds/symlink/l293.pdf
+$ENDCMP
+#
+$CMP L293D
+D Quadruple Half-H Drivers
+K Half-H Driver Motor 
+F http://www.ti.com/lit/ds/symlink/l293.pdf
+$ENDCMP
+#
+$CMP L298(H)N
+D Dual full bridge motor driver, up to 46V, 4A, Multiwatt-15
+K H-bridge motor driver
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
 $ENDCMP
 #
 $CMP LCD-016N002L
@@ -150,6 +189,24 @@ $ENDCMP
 #
 $CMP R
 D Resistor
+$ENDCMP
+#
+$CMP RM84
+D RELPOL RM84, Dual Pole Relay, 5mm Pitch, 8A
+K Dual Pole Relay
+F http://www.relpol.pl/en/content/download/13766/168095/file/e_RM84.pdf
+$ENDCMP
+#
+$CMP RSM822
+D RELPOL RSM822, Dual Pole Relay, 5mm Pitch, 2A
+K Dual Pole Relay
+F http://www.relpol.pl/en/content/download/14975/202519/file/e_RSM822.pdf
+$ENDCMP
+#
+$CMP Relay_Doble_Inversor
+D FINDER 40.52, Dual Pole Relay, 5mm Pitch, 8A
+K Dual Pole Relay
+F http://gfinder.findernet.com//assets/Series/5/S40EN.pdf
 $ENDCMP
 #
 $CMP SW_DIP_x02

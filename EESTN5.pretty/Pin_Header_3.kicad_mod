@@ -1,5 +1,5 @@
 (module Pin_Header_3 (layer F.Cu) (tedit 580256CE)
-  (descr "Pin socket 6pin")
+  (descr "Pin socket 3 pin")
   (tags "CONN DEV")
   (fp_text reference PIN_SOCKET_3 (at 0 -2.159) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
