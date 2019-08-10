@@ -1,4 +1,4 @@
-(module BORNERA3 (layer F.Cu) (tedit 57FAD7CB)
+(module BORNERA3 (layer F.Cu) (tedit 5AC5EEA0)
   (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
   (fp_text reference "Bornera 3" (at -0.05 -6.7) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))

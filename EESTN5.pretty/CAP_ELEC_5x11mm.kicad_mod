@@ -1,9 +1,9 @@
-(module CAP_ELEC_5x11mm (layer F.Cu) (tedit 582AE27B)
+(module CAP_ELEC_5x11mm (layer F.Cu) (tedit 5AC5EE10)
   (descr "Capacitor, pol, cyl 5x11mm")
   (fp_text reference CAP_ELEC_5x11mm (at 0 -4.2) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value C* (at 0 4.2) (layer F.SilkS)
+  (fp_text value C* (at 0 4.2) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start -0.8 -2.6) (end 0.8 -2.6) (layer F.SilkS) (width 0.3048))

@@ -1,4 +1,4 @@
-(module arduino_nano_header (layer F.Cu) (tedit 591E5416)
+(module arduino_nano_header (layer F.Cu) (tedit 5D44C2F0)
   (descr "Arduino Nano Header")
   (tags Arduino)
   (fp_text reference Arduino_Nano_Header (at 0 1.27) (layer F.SilkS) hide
@@ -57,7 +57,7 @@
   (pad 28 thru_hole oval (at -12.7 -7.62) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad 29 thru_hole oval (at -15.24 -7.62) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad 30 thru_hole oval (at -17.78 -7.62) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
-  (model Arduino_Nano_Board.wrl
+  (model Arduino_Nano_Board_Zocalo.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
