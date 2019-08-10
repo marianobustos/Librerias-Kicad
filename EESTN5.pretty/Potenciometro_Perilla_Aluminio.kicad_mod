@@ -1,16 +1,16 @@
-(module Potenciometro (layer F.Cu) (tedit 58B6A8B4)
-  (fp_text reference REF** (at 4.33 1.17) (layer F.SilkS)
+(module Potenciometro_Perilla_Aluminio (layer F.Cu) (tedit 59CC44E8)
+  (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Potenciometro (at 7.46 -0.31) (layer F.Fab)
+  (fp_text value Potenciometro (at 0 -3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad 1 thru_hole circle (at -5.08 0) (size 2.54 2.54) (drill 1.143) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5.08 0) (size 2.54 2.54) (drill 1.143) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 2.54 2.54) (drill 1.143) (layers *.Cu *.Mask))
-  (model Potenciometro.wrl
-    (at (xyz 0 -0.005 -0.18))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz -90 0 180))
+  (model Potenciometro_Perilla_Aluminio.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )

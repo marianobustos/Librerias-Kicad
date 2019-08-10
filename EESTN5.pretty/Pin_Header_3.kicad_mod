@@ -1,11 +1,11 @@
-(module Pin_Header_3 (layer F.Cu) (tedit 580256CE)
+(module Pin_Header_3 (layer F.Cu) (tedit 5AC5EE79)
   (descr "Pin socket 3 pin")
   (tags "CONN DEV")
-  (fp_text reference PIN_SOCKET_3 (at 0 -2.159) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+  (fp_text reference PIN_SOCKET_3 (at 0 -3.4) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (fp_text value Val** (at 0 -3.429) (layer F.SilkS) hide
-    (effects (font (size 1.016 0.889) (thickness 0.2032)))
+  (fp_text value Val** (at 0 2.9) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (fp_line (start 3.81 1.016) (end 3.81 1.397) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.81 1.27) (end -3.81 1.27) (layer F.SilkS) (width 0.15))
