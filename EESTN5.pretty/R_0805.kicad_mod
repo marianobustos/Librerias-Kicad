@@ -1,10 +1,10 @@
-(module R_0805 (layer F.Cu) (tedit 591264ED)
+(module R_0805 (layer F.Cu) (tedit 5ABB6CDF)
   (attr smd)
-  (fp_text reference R? (at -0.0635 -1.4605) (layer F.SilkS)
-    (effects (font (size 0.8 0.8) (thickness 0.12)))
+  (fp_text reference R? (at 0 -2) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (fp_text value Value (at 0 1.3335) (layer F.SilkS) hide
-    (effects (font (size 0.50038 0.50038) (thickness 0.10922)))
+  (fp_text value Value (at 0 2.1) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (fp_line (start -0.508 0.8255) (end -1.524 0.8255) (layer F.SilkS) (width 0.09906))
   (fp_line (start -1.524 0.8255) (end -1.524 -0.8255) (layer F.SilkS) (width 0.09906))
