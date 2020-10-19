@@ -1,4 +1,4 @@
-(module Header_2x05x2.54mm_Vertical (layer F.Cu) (tedit 5BDBBAB9)
+(module Header_2x05x2.54mm_Vertical (layer F.Cu) (tedit 5D74F3DB)
   (descr http://www.farnell.com/datasheets/1520732.pdf)
   (tags "connector multicomp MC9A MC9A12")
   (fp_text reference REF** (at -8.08 -5.73) (layer F.SilkS)
@@ -48,7 +48,7 @@
   (pad 9 thru_hole circle (at 5.08 1.27) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 5.08 -1.27) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (model Header_2X5_IDC.wrl
-    (at (xyz 0 0 0))
+    (offset (xyz -5.08 -1.27 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

@@ -242,6 +242,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP Conn_01x07
+D Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP Crystal_Small
 D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
@@ -496,6 +502,11 @@ $ENDCMP
 $CMP TB6612_BREAKOUT
 D BreakOut Board for TB6612
 K TB6612
+$ENDCMP
+#
+$CMP TCRT5000
+D Refective Sensor
+F https://www.vishay.com/docs/83760/tcrt5000.pdf
 $ENDCMP
 #
 $CMP TL061
