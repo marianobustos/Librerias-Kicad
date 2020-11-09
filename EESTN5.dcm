@@ -191,6 +191,162 @@ D BC817
 F http://cache.nxp.com/documents/data_sheet/BC846_SER.pdf?pspll=1
 $ENDCMP
 #
+$CMP BT136-500
+D 4A RMS, 500V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.micropik.com/PDF/BT136-600.pdf
+$ENDCMP
+#
+$CMP BT136-600
+D 4A RMS, 500V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.micropik.com/PDF/BT136-600.pdf
+$ENDCMP
+#
+$CMP BT136-800
+D 4A RMS, 800V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.micropik.com/PDF/BT136-600.pdf
+$ENDCMP
+#
+$CMP BT138-600
+D 12A RMS, 600V Off-State Voltage, Triac, TO-220
+K Triac
+F https://assets.nexperia.com/documents/data-sheet/BT138_SER_D_E.pdf
+$ENDCMP
+#
+$CMP BT138-800
+D 12A RMS, 800V Off-State Voltage, Triac, TO-220
+K Triac
+F https://assets.nexperia.com/documents/data-sheet/BT138_SER_D_E.pdf
+$ENDCMP
+#
+$CMP BT139-600
+D 16A RMS, 600V Off-State Voltage, 4Q Triac, TO-220
+K Triac
+F https://www.rapidonline.com/pdf/47-3240.pdf
+$ENDCMP
+#
+$CMP BTA16-600B
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600BW
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600C
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600CW
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600SW
+D 16A RMS, 600V Off-State Voltage, 10mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800B
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800BW
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800C
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800CW
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800SW
+D 16A RMS, 800V Off-State Voltage, 10mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600B
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600BW
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600C
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600CW
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600SW
+D 16A RMS, 600V Off-State Voltage, 10mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800B
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800BW
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800C
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800CW
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800SW
+D 16A RMS, 800V Off-State Voltage, 10mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
 $CMP Buzzer
 D Buzzer, polar
 K Quartz Resonator Ceramic
@@ -251,6 +407,12 @@ $ENDCMP
 $CMP Crystal_Small
 D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP DB3
+D Diode for alternating current
+K AC diode DIAC
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/fb/af/b0/56/99/1a/42/b4/CD00002277.pdf/files/CD00002277.pdf/jcr:content/translations/en.CD00002277.pdf
 $ENDCMP
 #
 $CMP DOT-BAR
@@ -347,6 +509,72 @@ $ENDCMP
 $CMP LM1117-SOT
 D 800mA Low Dropout Linear Regulator, SOT packages
 F http://www.mouser.com/ds/2/282/lm1117-n-7107.pdf
+$ENDCMP
+#
+$CMP MCP2515-xSO
+D Stand-Alone CAN Controller with SPI Interface, SOIC-18
+K CAN Controller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP MCP2551-I-P
+D High-Speed CAN Transceiver, 1Mbps, 5V supply, DIP-8
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf
+$ENDCMP
+#
+$CMP MOC3010M
+D Random Phase Opto-Triac, Vdrm 250V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3011M
+D Random Phase Opto-Triac, Vdrm 250V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3012M
+D Random Phase Opto-Triac, Vdrm 250V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3020M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 30mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3021M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3022M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3023M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3051M
+D Random Phase Opto-Triac, Vdrm 600V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3052M.pdf
+$ENDCMP
+#
+$CMP MOC3052M
+D Random Phase Opto-Triac, Vdrm 600V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3052M.pdf
 $ENDCMP
 #
 $CMP MP6500
@@ -507,6 +735,30 @@ $ENDCMP
 $CMP TCRT5000
 D Refective Sensor
 F https://www.vishay.com/docs/83760/tcrt5000.pdf
+$ENDCMP
+#
+$CMP TIC206
+D 4A RMS, 400-700V Off-State Voltage, Sensitive Gate Triac, TO-220
+K Triac
+F http://www.farnell.com/datasheets/56922.pdf
+$ENDCMP
+#
+$CMP TIC216
+D 6A RMS, 400-800V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.mouser.com/ds/2/54/tic216-37811.pdf
+$ENDCMP
+#
+$CMP TIC226
+D 8A RMS, 400-800V Off-State Voltage, Triac, TO-220
+K Triac
+F http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXuqxvy.pdf
+$ENDCMP
+#
+$CMP TJA1050
+D High-Speed CAN Transceiver, silent mode, SOIC-8
+K High-Speed CAN Transceiver
+F https://www.nxp.com/docs/en/data-sheet/TJA1050.pdf
 $ENDCMP
 #
 $CMP TL061
