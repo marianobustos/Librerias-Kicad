@@ -347,6 +347,12 @@ K Triac
 F https://www.st.com/resource/en/datasheet/bta16.pdf
 $ENDCMP
 #
+$CMP BluePill
+D STM32 Blue Pill ; not KLC compliant
+K module blue pill STM32F103C8T6
+F https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
+$ENDCMP
+#
 $CMP Buzzer
 D Buzzer, polar
 K Quartz Resonator Ceramic
@@ -755,10 +761,10 @@ K Triac
 F http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXuqxvy.pdf
 $ENDCMP
 #
-$CMP TJA1051T
+$CMP TJA1050
 D High-Speed CAN Transceiver, silent mode, SOIC-8
 K High-Speed CAN Transceiver
-F http://www.nxp.com/documents/data_sheet/TJA1051.pdf
+F https://www.nxp.com/docs/en/data-sheet/TJA1050.pdf
 $ENDCMP
 #
 $CMP TL061
