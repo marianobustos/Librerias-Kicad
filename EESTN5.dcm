@@ -727,6 +727,12 @@ D Switch, single pole double throw
 K switch single-pole double-throw spdt ON-ON
 $ENDCMP
 #
+$CMP Screw_Terminal_01x04
+D Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K screw terminal
+F ~
+$ENDCMP
+#
 $CMP Screw_Terminal_01x05
 D Generic screw terminal, single row, 01x05
 K screw terminal
