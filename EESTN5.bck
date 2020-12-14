@@ -833,6 +833,10 @@ K opto IR receiver
 F http://www.vishay.com/docs/82490/tsop321.pdf
 $ENDCMP
 #
+$CMP Teensy4.0_B
+D Sin los pines posteriores
+$ENDCMP
+#
 $CMP WeMos_mini
 D WeMos D1 mini
 K esp8266, wemos
