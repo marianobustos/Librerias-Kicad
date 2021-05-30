@@ -457,6 +457,12 @@ $CMP ESP32_DEVKITC
 D ESP32-DEVKITC
 $ENDCMP
 #
+$CMP FAN3121T
+D Gate Drivers, High-Speed,Low-Side, Single 9-A
+K Gate Driver
+F https://www.onsemi.com/pdf/datasheet/fan3121-d.pdf
+$ENDCMP
+#
 $CMP GP2Y0A60SZLF
 D BreakOut board for GP2Y0A60SZLF by Pololu
 $ENDCMP
